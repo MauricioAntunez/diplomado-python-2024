@@ -1,0 +1,3 @@
+Línea 1: Hola mundo
+Línea 2: Python es genial
+Línea 3: Este es un ejemplo de lectura de archivos
